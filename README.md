@@ -5,6 +5,7 @@
 - Pronouns: She/her
 - Hobbies: Coding, Gaming, Listening to music
 - Location: United Kingdom
+- Socials: [ <a rel='me' href='https://pawb.fun/@KaydaFox'>Pawb.fun</a>, [twitter](https://twitter.com/KaydaFox) ]
 
 ## Things I use
 
