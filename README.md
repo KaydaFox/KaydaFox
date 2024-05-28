@@ -1,3 +1,6 @@
+-- There probably wont be anything new on my github for a while, I lost motivation with coding 
+
+
 # About me
 
 - Name: Kayda
